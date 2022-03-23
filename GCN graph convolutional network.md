@@ -1,0 +1,3 @@
+....
+Con le GNN non si possono mettere troppi layer -> over-smoothing
+con pochi layer posso propagare le feature da quasi tutti i nodi del grafo

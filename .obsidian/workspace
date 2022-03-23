@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "fe741ed935afefc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "62540a7ee8da1837",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TEMP.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "62540a7ee8da1837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TEMP.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "62540a7ee8da1837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"GNN review.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":32.18075284090909}"
+            },
+            {
+              "leaf": "62540a7ee8da1837",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TEMP.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.30965909090909}"
+            },
+            {
+              "leaf": "62540a7ee8da1837",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Vgaer.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "62540a7ee8da1837",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66e3be1a0e181c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb995ede25e3bd61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14dad6963ae4a9ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "4ac368bece88f9d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "485d6cde079fe433",
+    "type": "split",
+    "children": [
+      {
+        "id": "de1eaa65da4677c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f403b54df97e019",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEMP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a6e15541c8fce562",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "75f7c4e6312c35ee",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "59fac792c3001d23",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "32c942f9fc11f6e1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "bc6221682fd374e7",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62540a7ee8da1837",
+  "lastOpenFiles": [
+    "TEMP.md",
+    "GNN review.md",
+    "Vgaer.pdf",
+    "181208434_220214_200523.pdf",
+    "s41586-021-03819-2 (2).pdf",
+    "s41586-021-03819-2 (2)-1.pdf",
+    "Highlights for s41586-021-03819-2 (2)-1.md",
+    "Highlights for s41586-021-03819-2 (2).md",
+    "Highlights for 181208434_220214_200523.md",
+    "Applications.md"
+  ]
+}
