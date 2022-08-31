@@ -16,5 +16,8 @@ GNN as new model for relational inductive bias
 
 GNN with Reservoir Computing
 
+Prova push github
+
+
 
 
