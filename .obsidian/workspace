@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "62540a7ee8da1837",
+        "id": "27fbaccbc2e2c168",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scaletta.md",
+            "file": "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scaletta.md",
+            "file": "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,8 +112,10 @@
     ],
     "currentTab": 0
   },
-  "active": "62540a7ee8da1837",
+  "active": "27fbaccbc2e2c168",
   "lastOpenFiles": [
+    "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
+    "Applications.md",
     "Scaletta.md",
     "TEMP.md",
     "GNN review.md",
@@ -121,8 +123,6 @@
     "181208434_220214_200523.pdf",
     "s41586-021-03819-2 (2).pdf",
     "s41586-021-03819-2 (2)-1.pdf",
-    "Highlights for s41586-021-03819-2 (2)-1.md",
-    "Highlights for s41586-021-03819-2 (2).md",
-    "Highlights for 181208434_220214_200523.md"
+    "Highlights for s41586-021-03819-2 (2)-1.md"
   ]
 }
