@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
+            "file": "A weighted network community detection algorithm based on deep learning.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
+            "file": "A weighted network community detection algorithm based on deep learning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "27fbaccbc2e2c168",
   "lastOpenFiles": [
+    "tiziano dic 2021 mesoscopic structure portfolio optimization.md",
+    "Community detection for financial markets and portfolio optimization.md",
     "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
     "Applications.md",
     "Scaletta.md",
@@ -121,8 +123,6 @@
     "GNN review.md",
     "Vgaer.pdf",
     "181208434_220214_200523.pdf",
-    "s41586-021-03819-2 (2).pdf",
-    "s41586-021-03819-2 (2)-1.pdf",
-    "Highlights for s41586-021-03819-2 (2)-1.md"
+    "s41586-021-03819-2 (2).pdf"
   ]
 }
