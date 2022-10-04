@@ -9,120 +9,214 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A weighted network community detection algorithm based on deep learning.md",
+            "file": "SBM stochastic block model.md",
             "mode": "source",
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"SBM stochastic block model.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"poster elements.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Community detection for financial markets and portfolio optimization.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A weighted network community detection algorithm based on deep learning.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Papers Graph ESN.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Community detection for financial markets and portfolio optimization.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "27fbaccbc2e2c168",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"A weighted network community detection algorithm based on deep learning.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6ed61e4f12f7d923",
-    "type": "mobile-drawer",
+    "id": "6cec98a89237b29c",
+    "type": "split",
     "children": [
       {
-        "id": "9bdd2c6b14e21cc6",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "66c5ac90bc9657dd",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "4a3673b415c87e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2349f07d5b6a62f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "acc125bb81535d3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 395.5
   },
   "right": {
-    "id": "56622a12fccbc523",
-    "type": "mobile-drawer",
+    "id": "b29d6b0f0ec0fd7f",
+    "type": "split",
     "children": [
       {
-        "id": "7fa36169f1d17d28",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "A weighted network community detection algorithm based on deep learning.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "e07d5e86043c9c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeefa4d5ca78dfa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SBM stochastic block model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6f057c5b2a196901",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "f9c8d9c75937bba4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "cc25c32d9aea76ec",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "51472156daa71ef4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c02a415dafd104a8",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
           }
-        }
-      },
-      {
-        "id": "8ede7ea88820d9b4",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_nodes",
-          "state": {}
-        }
-      },
-      {
-        "id": "c222736b9e8b22d5",
-        "type": "leaf",
-        "state": {
-          "type": "juggl_style",
-          "state": {}
-        }
-      },
-      {
-        "id": "e154b2cb861d521d",
-        "type": "leaf",
-        "state": {
-          "type": "BC-matrix",
-          "state": {}
-        }
-      },
-      {
-        "id": "c3aabb4a3efaccd4",
-        "type": "leaf",
-        "state": {
-          "type": "BC-stats",
-          "state": {}
-        }
-      },
-      {
-        "id": "db16a31e9a9daf0b",
-        "type": "leaf",
-        "state": {
-          "type": "BC-tree",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "27fbaccbc2e2c168",
   "lastOpenFiles": [
-    "tiziano dic 2021 mesoscopic structure portfolio optimization.md",
+    "poster elements.md",
     "Community detection for financial markets and portfolio optimization.md",
+    "A weighted network community detection algorithm based on deep learning.md",
+    "Papers Graph ESN.md",
+    "tiziano dic 2021 mesoscopic structure portfolio optimization.md",
     "Portfolio analysis and geographical allocation of renewable sources A stochastic approach.md",
     "Applications.md",
     "Scaletta.md",
     "TEMP.md",
-    "GNN review.md",
-    "Vgaer.pdf",
-    "181208434_220214_200523.pdf",
-    "s41586-021-03819-2 (2).pdf"
+    "GNN review.md"
   ]
 }
