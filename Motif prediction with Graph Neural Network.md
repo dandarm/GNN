@@ -6,11 +6,11 @@ GNNs ensure highest accuracy of predicting motifs
 
 Importantly, the advantages of our approach over schemes based on uncorrelated link prediction increase with the increasing motif size and complexity
 
-ofhigher-order graph organization [9], finding and analyzing small recurring subgraphs called motifs, graph patterns (eg. 𝑘-cliques, 𝑘-stars, 𝑘-clique-stars, 𝑘-cores)
+of higher-order graph organization [9], finding and analyzing small recurring subgraphs called motifs, graph patterns (eg. 𝑘-cliques, 𝑘-stars, 𝑘-clique-stars, 𝑘-cores)
 
 Motifs are central to many graph mining problems in computational biology, chemistry, and a plethora of other fields [11, 13, 14, 30, 33, 48, 51]
 
-general motifprediction, i.e., analyzing whether specified complex structures may appear in the data. As with link prediction, it would enable predicting the evolution of data, but also finding missing structures in the available data
+general motif prediction, i.e., analyzing whether specified complex structures may appear in the data. As with link prediction, it would enable predicting the evolution of data, but also finding missing structures in the available data
 
 A score function that assesses the chances for a given motif to appear and consider the combinatorially increased complexity of the problem (compared to link prediction)
 
@@ -23,7 +23,7 @@ The key challenge is to be able to capture the richness of different motifs and 
 
 negative samples, i.e., subgraphs that resemble the searched motifs but that are not identical to them.  close surroundings” (i.e., nearby vertices and edges, 1–2 hops away
 
-we observe that the larger the motifto predict becomes (larger 𝑘), the more advantages our architecture delivers. This is because larger motifs provide more room for correlations between their associated edges.  Finally, SEAM also successfully predicts more arbitrary communities or clusters 
+we observe that the larger the motif to predict becomes (larger 𝑘), the more advantages our architecture delivers. This is because larger motifs provide more room for correlations between their associated edges.  Finally, SEAM also successfully predicts more arbitrary communities or clusters 
 
 (1) identifying and formulating the motifprediction problem and the associated score functions, (2) showing how to solve this problem with heuristics and graph neural networks, and(3) illustrating thatgraph neural networks can solve this problem more effectively than heuristics
 
