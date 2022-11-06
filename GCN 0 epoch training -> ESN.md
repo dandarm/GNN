@@ -1,0 +1,2 @@
+Studiare la performance in funzione della sola l'inizializzazione (0 epoch training)
+Comparare con modelli tipo SGC, confrontare l'equazione di update della GCN con SGC e ESN per capire se l'inizializzazione ESN fa bene anche alla GCN

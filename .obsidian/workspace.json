@@ -4,15 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a62f5e3e55ecc4",
+        "id": "13c9ea5c58a647e4",
         "type": "tabs",
         "children": [
           {
-            "id": "afff4cf591284d60",
+            "id": "6625c8b813e6f572",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project GNN foundations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "258cc26b71ef04e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCN 0 epoch training -> ESN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fd6ec156b9d67c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29fa69fef2ee1537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project GNN foundations \"done\".md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "right": {
     "id": "b29d6b0f0ec0fd7f",
@@ -81,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project GNN foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +201,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "afff4cf591284d60",
+  "active": "6625c8b813e6f572",
   "lastOpenFiles": [
+    "Project GNN foundations \"done\".md",
+    "Project GNN foundations.md",
+    "GCN 0 epoch training -> ESN.md",
+    "Connessioni recenti.md",
     "Pasted image 20221010011705.png",
     "Pasted image 20221010011908.png",
     "Pasted image 20221010011951.png",
     "Transformers references.md",
     "Weighted network motifs as random walk patterns.md",
-    "Motif prediction with Graph Neural Network.md",
-    "Weight Initialization in Neural Networks.md",
-    "Pasted image 20221010011515.png",
-    "SBM stochastic block model.md",
-    "poster elements.md"
+    "Motif prediction with Graph Neural Network.md"
   ]
 }
