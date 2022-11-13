@@ -1,4 +1,9 @@
 (https://arxiv.org/pdf/2201.04066.pdf)
+[2201.04066v4.pdf]
+[[Communitydetection]]
+
+
+
 
 Unsupervised feature learning specific for community detection task.
 

@@ -1,4 +1,6 @@
-arxiv 2012.01265
+[2012.01265.pdf]
+[[motifs]]
+
 
 
 for weighted networks, motif analysis is still undeveloped.

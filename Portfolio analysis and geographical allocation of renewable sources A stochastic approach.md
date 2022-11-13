@@ -1,5 +1,8 @@
 [[Papers]]
-[[Portfolio Management]]
+[2019 - ENPOL - Portfolio Allocation.pdf]
+[[energysource]]
+[[Portfolio optimization]]
+
 
 ### Introduction
 

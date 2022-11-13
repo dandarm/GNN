@@ -1,4 +1,8 @@
 [[Papers]]
+[[Communitydetection]]
+[community_Detection_weighted.pdf]
+[[autoencoder]]
+
 community detection methods are mostly focused on the investigation at unweighted networks.
 []()
 
