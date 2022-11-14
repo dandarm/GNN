@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d423bc403bbc467e",
+        "id": "5ac9044ed272dbc8",
         "type": "tabs",
         "children": [
           {
-            "id": "5cecdcbb48155d41",
+            "id": "745f46a8f370c0bd",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project GNN foundations done.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project GNN foundations done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cecdcbb48155d41",
+  "active": "745f46a8f370c0bd",
   "lastOpenFiles": [
-    "GCN 0 epoch training ... ESN.md",
+    "A weighted network community detection algorithm based on deep learning.md",
+    "Motif prediction with Graph Neural Network.md",
+    "Community detection for financial markets and portfolio optimization.md",
+    "Communitydetection.md",
     "Project GNN foundations done.md",
+    "GCN 0 epoch training ... ESN.md",
     "Weight Initialization in Neural Networks.md",
     "FDGNN.png",
     "poster elements.md",
-    "Transformers references.md",
-    "Connessioni recenti.md",
-    "Weighted network motifs as random walk patterns.md",
-    "Motif prediction with Graph Neural Network.md",
-    "Project GNN foundations.md"
+    "Transformers references.md"
   ]
 }

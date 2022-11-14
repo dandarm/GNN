@@ -1,4 +1,8 @@
+[[Communitydetection]]
+
+
 ### Introduction
+
 
 
 One of the most important properties of complex systems is community structure. Real-world complex systems are organized in a modular way, with clusters of units sharing similar dynamics or functionality. 
